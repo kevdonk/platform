@@ -2,10 +2,17 @@
 generic platform
 
 Docker
+
 Kubernetes
+
 Golang
+
 GraphQL
+
 React
+
+Terraform - use https://learn.hashicorp.com/tutorials/terraform/associate-study
+
 
 #### Users
 
