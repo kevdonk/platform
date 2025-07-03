@@ -13,6 +13,8 @@ React
 
 Terraform - use https://learn.hashicorp.com/tutorials/terraform/associate-study ?
 
+Cursor
+Flutter
 
 #### Users
 
