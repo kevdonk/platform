@@ -5,13 +5,13 @@ Docker
 
 Kubernetes
 
-Golang
+Golang temporal: https://learn.temporal.io/getting_started/go/
 
 GraphQL
 
 React
 
-Terraform - use https://learn.hashicorp.com/tutorials/terraform/associate-study
+Terraform - use https://learn.hashicorp.com/tutorials/terraform/associate-study ?
 
 
 #### Users
@@ -22,8 +22,18 @@ Terraform - use https://learn.hashicorp.com/tutorials/terraform/associate-study
 4. set up create and login
 5. set up google login
 
+### Payments
 
+### UI components
 
+### Generic Server implementation
+
+### Logging & Analytics
+
+### CMS / Admin
+
+##### Fleet Management
+##### Inventory Management
 
 ##### Platforms
 1. Learning site for kids
